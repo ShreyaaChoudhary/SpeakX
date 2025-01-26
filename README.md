@@ -40,23 +40,5 @@
 
 ---
 
-## ⚙️ Setup Instructions
-
-### 1. Clone the Repository
-```bash
-git clone https://github.com/<your-username>/SpeakX.git
-cd SpeakX
-```bash
-Install backend dependencies:
-cd backend
-npm install
-```bash
-Install frontend dependencies:
-cd ../frontend
-npm install
-```arduino
-Open your browser and navigate to:
-http://localhost:5173
-
 
 
