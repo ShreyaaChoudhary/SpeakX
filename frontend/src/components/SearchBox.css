@@ -1,0 +1,202 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'poppins', sans-serif;
+  }
+  /* body{
+    background: url('https://i.pinimg.com/736x/d6/17/85/d6178593a34f79ba299a806d7fda7fa5.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+overflow: hidden;
+    width: 100vw;
+  } */
+  /* @font-face {
+    font-family: 'charley';
+    src: url('../assets/PLATONIA.ttf');
+  } */
+  .caption {
+    
+    display: flex; 
+    margin-top: 37vh;
+    align-items: center;
+    justify-content: center; 
+    position: absolute;
+    top: 0;
+    width: 100%;
+    height: 10%; 
+}
+
+@font-face {
+  font-family: 'VIRUST';
+  src: url('../assets/VIRUST.ttf');
+}
+.caption h1 {
+    font-family: VIRUST;
+    font-size: 15vb;
+    text-align: center; 
+    color: beige;
+    font-weight:300;
+    text-transform: uppercase;
+}
+.caption span p{
+  font-family: VIRUST;
+  font-weight: 100;
+  font-size: 15px;
+  line-height: 3rem;
+}
+/* .wrapper{
+    box-sizing: content-box;
+    display: flex;
+    top:25%;
+    flex-direction: column;
+    align-items: center; 
+    justify-content: center;
+    width: 100%;position: relative;
+}
+
+.input-wrapper {
+    height: 45px;
+    border-radius: 20px;
+    padding: 5px;
+    box-sizing: content-box;
+    display: flex;
+    align-items: center; 
+    justify-content: center;
+    background-color: #292524;
+  }
+  .input {
+    max-width: 400px;
+    height: 100%;
+    border: none;
+    outline: none;
+    padding-left: 15px;
+    background-color: #292524;
+    color: white;
+    font-size: 1em;
+    
+  }
+  .input:-webkit-autofill {
+    -webkit-box-shadow: 0 0 0px 1000px #292524 inset;
+    -webkit-text-fill-color: #ffffff;
+  }
+  .Subscribe-btn {
+    height: 100%;
+    width: 95px;
+    border: none;
+    border-radius: 15px;
+    color: rgb(0, 0, 0);
+    cursor: pointer;
+    background-color: #ffffff;
+    font-weight: 500;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    transition: all 0.3s;
+  }
+  .Subscribe-btn:hover {
+    font-size: 77%;
+    transition: 300ms;
+  }
+  
+  @keyframes jello-vertical {
+    0% {
+      transform: scale3d(1, 1, 1);
+    }
+    30% {
+      transform: scale3d(0.75, 1.25, 1);
+    }
+    40% {
+      transform: scale3d(1.25, 0.75, 1);
+    }
+    50% {
+      transform: scale3d(0.85, 1.15, 1);
+    }
+    65% {
+      transform: scale3d(1.05, 0.95, 1);
+    }
+    75% {
+      transform: scale3d(0.95, 1.05, 1);
+    }
+    100% {
+      transform: scale3d(1, 1, 1);
+    }
+  }
+  .Subscribe-btn:active {
+    transform: scale(0.9);
+  }
+  .ans {
+    display: flex; 
+    flex-direction: column;
+    align-items: center; 
+    justify-content: center; 
+    text-align: center;
+    background: rgba(41, 37, 36, 0.5); 
+    color: white; 
+    height: 13%;
+    width: 40%; 
+    padding: 20px; 
+    box-sizing: border-box; 
+    margin: 0; 
+    position: absolute; 
+    top: 53%;
+    left: 50%;
+    transform: translate(-50%, -50%); 
+    border-radius: 12px; 
+    backdrop-filter: blur(10px); 
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1); 
+    border: 1px solid rgba(255, 255, 255, 0.2); 
+}
+.totalans {
+  display: block;
+  position: absolute;
+  top: 53%;
+  left: 50%;
+}
+
+.totalans ul {
+  display: flex;
+  flex-direction: column;
+  gap: 3rem;
+  padding: 0;
+}
+
+.ans2 {
+  display: flex;
+  flex-direction: column;
+  align-items: center; 
+  justify-content: center; 
+  text-align: center;
+  background: rgba(19, 16, 15, 0.5); 
+  color: white;
+  padding: 20px;
+  margin: 0;
+  width: 80vw; 
+  transform: translate(-50%, -50%);
+  box-sizing: border-box;
+  border-radius: 12px;
+  backdrop-filter: blur(10px); 
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1); 
+  border: 1px solid rgba(255, 255, 255, 0.2); 
+  
+}
+.ans2 h3{
+  font-family: freight big pro;
+  font-weight: 150;
+  font-size: 18px;
+  text-transform: capitalize;
+}
+.no-results {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  color: white;
+  font-size: 1.2rem;
+  text-align: center;
+}
+
+ */
