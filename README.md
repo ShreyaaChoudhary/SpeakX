@@ -1,6 +1,12 @@
 # SpeakX - Full Stack Assignment (LPU)
 ---
+### SCREENSHOTS
+![chrome-capture-2025-1-26](https://github.com/user-attachments/assets/34beffd6-43c3-4cc9-ac85-cb9548533ca3)
+![image](https://github.com/user-attachments/assets/55044da2-d6de-412f-b9de-53b74fa62f3a)
+![image](https://github.com/user-attachments/assets/4a226a9d-b222-4a17-8351-acbfd77fd218)
+![image](https://github.com/user-attachments/assets/4416bec3-2754-4e59-939c-b58752658f4c)
 
+---
 ## 🚀 Features
 
 ### 🌐 Frontend
